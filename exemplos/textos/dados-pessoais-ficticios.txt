@@ -1,0 +1,3 @@
+Olá, meu nome é Mariana Souza e quero confirmar minha reserva para o dia 12/03/2026.
+Meu e-mail é mariana.souza@exemplo.com e meu telefone é (11) 98765-4321.
+Todos os dados deste arquivo são fictícios, criados só para testar a detecção de dados pessoais (PII).
